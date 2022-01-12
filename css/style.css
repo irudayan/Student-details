@@ -1,0 +1,50 @@
+/*login style*/
+
+#food{
+	color:#EA2027;
+	text-align:center;
+	padding:10px;
+	background:white;
+	
+}
+
+
+#main-wrapper{
+	width:200px;
+	margin:0 auto;
+	padding:5px;
+	background:white;
+	border-radius:10px;
+	border:2px solid #f1c40f;*/
+	}
+.img{
+	width:150px;
+	border-radius:100%;
+}
+.form{
+	width:450px;
+	margin:0 auto;
+
+}
+.login{
+	width:450px;
+	margin:0 auto;
+	padding:5px;
+}
+#but1{
+	width: 450px;
+	margin:0 auto;
+	padding:5px;
+	background:#9b59b6;
+}
+#but2{
+	width: 450px;
+	margin:0 auto;
+	padding:5px;
+	background:#2980b9;
+
+}
+#mark{
+	
+	background:#ffeaa7;
+}
